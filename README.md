@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @Rairik-Ghosh
-- 👀 I’m interested in: Learning new stuff based on coding in C or Java or Python
-- 🌱 I’m currently learning: Just simple C or Java or Python right now
-- 💞️ I’m looking to collaborate on: Nothing as of now...I am here to learn
-- 📫 How to reach me : You can dm me in here or you can use my email
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to have fun and enjoy time learning
+# Hi, I'm Rairik 👋
 
-<!---
-Rairik-Ghosh/Rairik-Ghosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Computer Science student focused on AI/ML, backend development, and intelligent automation systems.
+
+## Interests
+- Machine Learning & Deep Learning
+- Computer Vision & NLP
+- Backend Development
+- Full-Stack Web Applications
+- AI-assisted automation systems
+
+## Tech Stack
+Python • Flask • SQL • ReactJS • NodeJS • Git • Linux
+
+## Current Focus
+Building AI-powered applications involving OCR, document verification, and intelligent workflows.
+
+## Projects
+- AI-assisted Certificate Verification System
+- SmartSix Learning Platform
+
+## Contact
+- LinkedIn: linkedin.com/in/rairik-ghosh-723169306
+- Email: rairikghosh1@gmail.com
