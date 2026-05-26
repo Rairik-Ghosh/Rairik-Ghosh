@@ -16,7 +16,7 @@ Python • Flask • SQL • ReactJS • NodeJS • Git • Linux
 Building AI-powered applications involving OCR, document verification, and intelligent workflows.
 
 ## Projects
-- AI-assisted Certificate Verification System
+- AI-assisted Document Verification System
 
 ## Contact
 - LinkedIn: linkedin.com/in/rairik-ghosh-723169306
