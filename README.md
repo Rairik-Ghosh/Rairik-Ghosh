@@ -17,7 +17,6 @@ Building AI-powered applications involving OCR, document verification, and intel
 
 ## Projects
 - AI-assisted Certificate Verification System
-- SmartSix Learning Platform
 
 ## Contact
 - LinkedIn: linkedin.com/in/rairik-ghosh-723169306
