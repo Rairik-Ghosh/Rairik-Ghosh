@@ -21,7 +21,7 @@ and AI-driven software systems**.
 ## 🛠️ Tech Stack
 
 ### Languages
-Python • JavaScript • C/C++ • SQL
+Python • Java • JavaScript • C/C++ • SQL
 
 ### AI / Machine Learning
 Machine Learning • Deep Learning • Computer Vision • NLP  
